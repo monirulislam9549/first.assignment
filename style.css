@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 40px;
+
+}
+
+.explore-now{
+    text-decoration: none;
+    background-color: rgb(43, 46, 214);
+    color: rgb(151, 204, 46);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+
+}
+
+
+
+.first-div{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.heading-color{
+    color: tomato;
+}
+
+.div-flex h1{font-size: 50px;
+    border-left: 7px solid tomato;
+    margin-left: 10px;
+    color: turquoise;
+    
+}
+
+.dev-flex p{
+    font-size: 25px;
+    padding-top: 10px;
+    line-height: 25px;
+   
+}
+
+.person-2{
+    width: 40%;
+    margin-left: 5%;
+}
+
+.person-2 img{
+    width: 500px;
+
+}
+.mission-section{
+    text-align: center;
+}
+
+.mission-section-body{
+    padding: 5%;
+    height: 700px;
+    display: flex;
+}
+.color-year{
+    color: tomato;
+}
+
+.mission-section-body img{
+    width: 50%;
+
+}
+
+.vission-section-body img{
+    width: 10%;
+}
+
+#mission{
+    background-color: rgb(145, 204, 204);
+    width: 100%;
+    border-radius: 10px;
+    height: 700px;
+    padding: 5px;
+
+}
+
+#vission{
+    background-color: rgb(235, 202, 140);
+    width: 100%;
+    border-radius: 10px;
+    height: 700px;
+    padding: 10px;
+
+}
+#goals{
+    background-color: rgb(236, 159, 145);
+    width: 100%;
+    border-radius: 10px;
+    height: 700px;
+    padding: 10px;
+
+}
+
+.half-width{
+   
+    padding-left: 5%;
+  
+
+}
+.half-width img{
+    width: 700px;
+}
+   
+
+
